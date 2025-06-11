@@ -1,7 +1,7 @@
 Quiz App 
 
 
-Diese Android-App (API-Level 26 für Android 8) rechnet (Kotlin, Jetpack Compose)
+Android-App (API-Level 26 für Android 8) 
 
 Multiple-Choice-Fragen
 
